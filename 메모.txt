@@ -1,0 +1,61 @@
+low poly
+inport가 안되는 경우 
+fbx로 저장해서 불러오기 ->스케일 조절하기
+
+[marmoset]
+
+조절 (역광/빛)
+
+
+diffusion - subsurface scatter 
+Secondary Reflection - GGX	 
+
+----------------------[Blender]---------------------
+
+shift+E crease
+
+ctrl+. 피봇위치 변경
+
+alt+z 투명화
+
+alt+d 복사 instance
+shift+d duplicate
+
+shift + c  3d cursor 중심으로 reset
+shift + 오른쪽  cursor 위치 바꾸기
+
+view - view rock 원하는 대상 선택가능 or cursor중심
+
+mesh - normal - set from face -> edit poly 
+                   - nomarl face (shift+n, shift+ctrl+n)
+
+H hide
+alt +H  UNhide 
+
+object file 옮기기 - object 선택 + m  이동
+
+[skin] - 두께주기
+
+화면 이동 - preferences - navigation - auto perspective 체크 풀어주기
+
+ctrl + L 선택 object 모두적용
+
+material 정리하기 object 상단멘뉴 -> blender file 클릭 -> materials에서 선택 지우기 가능
+
+ctrl + J 합치기 attach
+
+-------------------------------[zbrush]---------------------------
+
+alt + 클릭 객채 선택
+alt + 화면클릭 드래그  화면이동
+shift + 화면클릭 드래그 화면이동 (F,T,R,L,B,BK)
+
+ctrl + shift + 클릭 선택 객채만 보이기
+한번더 클릭시 그 객채빼고 나머지 다 보이기
+하나 씩 선택시 사라짐
+
+
+ctrl + 화면클릭 마스크 반전
+
+
+
